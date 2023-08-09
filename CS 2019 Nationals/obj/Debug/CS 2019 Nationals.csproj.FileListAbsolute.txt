@@ -1,0 +1,10 @@
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\bin\Debug\CS 2019 Nationals.exe.config
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\bin\Debug\CS 2019 Nationals.exe
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\bin\Debug\CS 2019 Nationals.pdb
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\obj\Debug\CS 2019 Nationals.csproj.AssemblyReference.cache
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\obj\Debug\CS_2019_Nationals.Form1.resources
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\obj\Debug\CS_2019_Nationals.Properties.Resources.resources
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\obj\Debug\CS 2019 Nationals.csproj.GenerateResource.cache
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\obj\Debug\CS 2019 Nationals.csproj.CoreCompileInputs.cache
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\obj\Debug\CS 2019 Nationals.exe
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 Nationals\obj\Debug\CS 2019 Nationals.pdb

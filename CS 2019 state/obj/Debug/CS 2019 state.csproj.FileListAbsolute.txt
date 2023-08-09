@@ -1,0 +1,10 @@
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\bin\Debug\CS 2019 state.exe.config
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\bin\Debug\CS 2019 state.exe
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\bin\Debug\CS 2019 state.pdb
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\obj\Debug\CS_2019_state.Form1.resources
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\obj\Debug\CS_2019_state.Properties.Resources.resources
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\obj\Debug\CS 2019 state.csproj.GenerateResource.cache
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\obj\Debug\CS 2019 state.csproj.CoreCompileInputs.cache
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\obj\Debug\CS 2019 state.exe
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\obj\Debug\CS 2019 state.pdb
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS 2019 state\obj\Debug\CS 2019 state.csproj.AssemblyReference.cache

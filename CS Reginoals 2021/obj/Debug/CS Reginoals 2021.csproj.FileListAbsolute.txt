@@ -1,0 +1,10 @@
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\bin\Debug\CS Reginoals 2021.exe.config
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\bin\Debug\CS Reginoals 2021.exe
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\bin\Debug\CS Reginoals 2021.pdb
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\obj\Debug\CS Reginoals 2021.csproj.AssemblyReference.cache
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\obj\Debug\CS_Reginoals_2021.Form1.resources
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\obj\Debug\CS_Reginoals_2021.Properties.Resources.resources
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\obj\Debug\CS Reginoals 2021.csproj.GenerateResource.cache
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\obj\Debug\CS Reginoals 2021.csproj.CoreCompileInputs.cache
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\obj\Debug\CS Reginoals 2021.exe
+C:\Users\TUCKDL2\OneDrive - Idaho National Laboratory\programing\CS Reginoals 2021\obj\Debug\CS Reginoals 2021.pdb
